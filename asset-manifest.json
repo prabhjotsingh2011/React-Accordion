@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Accordion/static/css/main.2967eccb.chunk.css",
+    "main.js": "/React-Accordion/static/js/main.96d8e69f.chunk.js",
+    "main.js.map": "/React-Accordion/static/js/main.96d8e69f.chunk.js.map",
+    "runtime-main.js": "/React-Accordion/static/js/runtime-main.cdc1b6dd.js",
+    "runtime-main.js.map": "/React-Accordion/static/js/runtime-main.cdc1b6dd.js.map",
+    "static/js/2.b0fa1f47.chunk.js": "/React-Accordion/static/js/2.b0fa1f47.chunk.js",
+    "static/js/2.b0fa1f47.chunk.js.map": "/React-Accordion/static/js/2.b0fa1f47.chunk.js.map",
+    "static/js/3.c7c69f9d.chunk.js": "/React-Accordion/static/js/3.c7c69f9d.chunk.js",
+    "static/js/3.c7c69f9d.chunk.js.map": "/React-Accordion/static/js/3.c7c69f9d.chunk.js.map",
+    "index.html": "/React-Accordion/index.html",
+    "static/css/main.2967eccb.chunk.css.map": "/React-Accordion/static/css/main.2967eccb.chunk.css.map",
+    "static/js/2.b0fa1f47.chunk.js.LICENSE.txt": "/React-Accordion/static/js/2.b0fa1f47.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Accordion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc1b6dd.js",
+    "static/js/2.b0fa1f47.chunk.js",
+    "static/css/main.2967eccb.chunk.css",
+    "static/js/main.96d8e69f.chunk.js"
+  ]
+}
